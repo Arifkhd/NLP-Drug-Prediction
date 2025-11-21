@@ -98,10 +98,10 @@ Streamlit<br>
 <br>
 🚀 How to Run<br>
 1️⃣ Clone the repository<br>
-git clone https://github.com/<username>/nlp-disease-prediction<br>
+git clone https://github.com/Arifkhd/NLP-Drug-Prediction<br>
 <br>
 2️⃣ Install dependencies,br>
-pip install -r requirements.txt,br>
+pip install -r requirements.txt<br>
 
 3️⃣ Run the Streamlit App<br>
 streamlit run app.py<br>
